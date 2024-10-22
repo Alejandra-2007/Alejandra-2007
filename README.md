@@ -1,8 +1,8 @@
 ## Holii 👋
-
+## <img src="fnd" width="200px" height="auto">
 <!--
 **Alejandra-2007/Alejandra-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img src="fnd" width="200px" height="auto">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

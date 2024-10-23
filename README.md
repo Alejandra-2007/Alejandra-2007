@@ -3,8 +3,9 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)(https://youtube.com/aristidevs?sub_confirmation=1)
-![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)]
+[![Instagram](https://www.instagram.com/alesita17_?igsh=eTJoeWEyZmhzcXNk)]
 
 ## Sobre mi
 

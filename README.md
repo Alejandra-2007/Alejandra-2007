@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">AleDevs</a> 👋</h1>
 </div>
-<img src="!(https://github.com/user-attachments/assets/f3b6939b-bcb7-43c3-bdbc-11afe7410601)" width="100" height="auto">
+<img src="(https://github.com/user-attachments/assets/004da740-2d2d-4bb0-8f4a-f6b7a147dd42)" width="100" height="auto">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)]

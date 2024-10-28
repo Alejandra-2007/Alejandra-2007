@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">AleDevs</a> 👋</h1>
 </div>
-<img src="C:\Users\BMR-400\Downloads\Diseño sin título.png">
+<img src="![Uploading Diseño sin título.png…]()">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)]

@@ -1,18 +1,15 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AleDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Aledevs</a> 👋</h1>
 </div>
-<img src="(https://github.com/user-attachments/assets/004da740-2d2d-4bb0-8f4a-f6b7a147dd42)" width="100" height="auto">
+<img src="https://github.com/user-attachments/assets/3d86f0e7-eeb3-48d7-af3d-b931557b2445">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/@aledevs-u2g?si=SY8qhDc0-6Vl4QrM)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-52gmBzNPozCKJrOOMdEMg)](https://youtube.com/@aledevs-u2g?si=WCsFHhPxd7J3gBaf)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a instalar facil
-
-<p>Aprende a programar en: <strong>VisualStudio Code</strong> - En este curso nos centraremos en dominar VisualStudio Code <strong>desde cero</strong>. Curso <strong>GRATUITO</strong></p>
-</div>
+- ¡Hola! Soy Aledevs, una apasionada diseñadora de software con 3 años de experiencia en la creación de soluciones innovadoras y centradas en el usuario. Me encanta transformar ideas en aplicaciones funcionales y atractivas, siempre buscando la mejor manera de combinar estética y usabilidad.
+- Tengo experiencia en HTML, CSS y JavaScript, y disfruto colaborar con equipos para implementar diseños responsivos.
                                                                                       
                                                                         
                

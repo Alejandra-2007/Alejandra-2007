@@ -5,13 +5,10 @@
 
 ## Redes sociales
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-52gmBzNPozCKJrOOMdEMg)](https://youtube.com/@aledevs-u2g?si=WCsFHhPxd7J3gBaf)
-[![YouTube Channel Subscribers](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alesita17_/?hl=es)
-  <a herf="https://www.facebook.com/aalejandra.cruz0?locale=es_LA">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
-  <a herf="https://www.facebook.com/aalejandra.cruz0?locale=es_LA">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alesita17_/?hl=es)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/aalejandra.cruz0?locale=es_LA)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.facebook.com/aalejandra.cruz0?locale=es_LA)
+
 
 ## Sobre mi
 
